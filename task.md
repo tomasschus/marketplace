@@ -9,10 +9,10 @@
 - [x] Implementar API Gateway simple (Spring Cloud Gateway) con rutas `/orders` y `/payments`
 
 ## Fase 2: Order Service
-- [ ] Crear esquema de BD (tabla `orders`: id, user_id, status, total, created_at)
-- [ ] Implementar endpoint POST `/orders` (validar, guardar, publicar evento `OrderCreated`)
-- [ ] Implementar endpoint GET `/orders/{id}`
-- [ ] Agregar soporte de `Idempotency-Key` (tabla `idempotency_keys`)
+- [x] Crear esquema de BD (tabla `orders`: id, user_id, status, total, created_at)
+- [x] Implementar endpoint POST `/orders` (validar, guardar, publicar evento `OrderCreated`)
+- [x] Implementar endpoint GET `/orders/{id}`
+- [x] Agregar soporte de `Idempotency-Key` (tabla `idempotency_keys`)
 
 ## Fase 3: Inventory Service
 - [ ] Crear tabla `products` (id, name, stock)
