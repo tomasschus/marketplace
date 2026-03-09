@@ -1,4 +1,4 @@
-package com.schusterapps.order_service;
+package com.schusterapps.orderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

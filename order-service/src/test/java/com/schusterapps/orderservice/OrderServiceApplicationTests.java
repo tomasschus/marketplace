@@ -1,4 +1,4 @@
-package com.schusterapps.order_service;
+package com.schusterapps.orderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
