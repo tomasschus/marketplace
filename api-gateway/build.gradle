@@ -9,9 +9,8 @@ version = '0.0.1-SNAPSHOT'
 description = 'marketplace api gateway'
 
 java {
-	sourceCompatibility = '17'
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
+		languageVersion = JavaLanguageVersion.of(25)
 	}
 }
 

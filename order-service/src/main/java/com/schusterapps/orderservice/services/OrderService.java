@@ -1,6 +1,5 @@
 package com.schusterapps.orderservice.services;
 
-import tools.jackson.core.JsonProcessingException;
 import tools.jackson.databind.ObjectMapper;
 import com.schusterapps.orderservice.dtos.OrderRequest;
 import com.schusterapps.orderservice.dtos.OrderResponse;
